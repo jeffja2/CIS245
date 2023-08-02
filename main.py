@@ -4,7 +4,7 @@
 # with the results being printed to the screen.
 
 # The filename validation documentation and examples came from
-# https://pypi.org/project/pathvalidate/#validate-a-filename
+# https://pypi.org/project/pathvalidate/#validate-a-filename.
 import sys
 from pathvalidate import ValidationError, validate_filename
 
